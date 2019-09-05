@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/jrs001/demo-assignment-john-refaat.svg?branch=master)](https://travis-ci.com/jrs001/demo-assignment-john-refaat)
+
 A Java REST API for Assignments Tool Investigations
 
 In order to run this project follow the below steps:
